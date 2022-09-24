@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Color Background</string>
+    <array name="array_cores">
+        <item>Azul</item>
+        <item>Preto</item>
+        <item>Branco</item>
+        <item>Amarelo</item>
+    </array>
+</resources>
